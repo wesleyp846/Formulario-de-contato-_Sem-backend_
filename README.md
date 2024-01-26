@@ -1,3 +1,5 @@
+# Projeto em pausa
+
 ## Preparação
 1. `git clone https://github.com/wesleyp846/Formulario-de-contato-_Sem-backend_.git`
 2. README.md e .gitignore
